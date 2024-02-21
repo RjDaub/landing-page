@@ -1,0 +1,24 @@
+.header {
+    background: #1f2937;
+    display: flex;
+    justify-content: center;    
+    margin: 50px;
+    padding: 50px;
+    
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.header-logo {
+    
+}
+.header-link {
+   
+    
+}

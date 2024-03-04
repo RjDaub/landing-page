@@ -39,16 +39,6 @@ a {
     padding-right: 300px;
 }
 
-.web-intro {
-    
-    
-}
-
-.web-paragraph {
-    
-
-}
-
 .header-logo {
     padding-bottom: 50px;
 }
@@ -58,7 +48,101 @@ a {
 }
 
 .first-img {
-    height: 180px;
+    height: 200px;
     width: 370px;
     margin-left: 60px;
 }
+
+.information {
+    padding-bottom: 100px;
+}
+
+.info-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+    margin-bottom: 32px;
+    padding-top: 30px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.text {
+    max-width: 200px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    padding-bottom: 50px;
+}
+
+.quote-paragraph {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+.quote-by {
+    text-align: right;
+    font-size: 36px;
+    font-weight: bold;
+    padding-right: 150px;
+}
+
+.signup {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.signup-container {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 690px;
+    flex-direction: column;
+
+}
+
+.call-action {
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.signup-text {
+    padding-left: 60px;
+}
+
+.signup-button {
+    width: 80px;
+    align-self: last baseline;
+    
+}
+
+.footer {
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    
+}
+.copyright {
+    
+    padding-top: 20px
+}
+
+
